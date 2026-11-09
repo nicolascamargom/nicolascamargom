@@ -1,20 +1,21 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nicol%C3%A1s%20Camargo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Software%20Junior%20%C2%B7%20Bogot%C3%A1%2C%20Colombia&descAlignY=56&descSize=18" alt="Nicolás Camargo · Desarrollador de Software Junior">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Nicol%C3%A1s%20Camargo&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Desarrollador%20de%20Software%20Junior&descAlignY=62&descSize=20" alt="Nicolás Camargo · Desarrollador de Software Junior">
 </p>
 
 <!-- Texto que se escribe solo -->
 <p align="center">
-  <a href="https://github.com/nicolascamargom">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2C9FD6&center=true&vCenter=true&width=640&lines=Backend+con+Node.js+y+Express;Frontend+con+React+y+TypeScript;Apps+m%C3%B3viles+con+React+Native;Aprendiendo+Docker+e+IA+cada+d%C3%ADa" alt="Backend con Node.js · Frontend con React · Apps móviles con React Native">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Backend+con+Node.js+y+Express;%E2%9A%9B%EF%B8%8F+Frontend+con+React+y+TypeScript;%F0%9F%93%B1+Apps+m%C3%B3viles+con+React+Native;%F0%9F%A4%96+Aprendiendo+Docker+e+IA" alt="Backend con Node.js · Frontend con React · Apps móviles con React Native">
 </p>
 
+<!-- Botones (todos llevan a algún lado) -->
 <p align="center">
-  <a href="mailto:nicolascamargom21@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-203A43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia">
-  <img src="https://img.shields.io/badge/Disponible-para%20nuevos%20retos-2C9FD6?style=for-the-badge" alt="Disponible para nuevos retos">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolascamargom21@gmail.com&su=Hola%20Nicol%C3%A1s" target="_blank"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme por Gmail"></a>
+  <a href="https://github.com/nicolascamargom?tab=repositories"><img src="https://img.shields.io/badge/Mis-proyectos-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver mis proyectos"></a>
+  <a href="https://github.com/nicolascamargom/hunterxhunter"><img src="https://img.shields.io/badge/Proyecto-destacado-36BCF7?style=for-the-badge&logo=react&logoColor=white" alt="Ver proyecto destacado"></a>
 </p>
+
+<p align="center">📍 Bogotá, Colombia · 🎓 Ingeniería de Software · 💡 Abierto a nuevas oportunidades</p>
 
 ---
 
