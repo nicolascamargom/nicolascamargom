@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 💼 Trabajo en **Grupcos**. Construyo **APIs REST en Node.js** que conectan los sistemas de los clientes con **WhatsApp Business** y configuro **chatbots con IA** para empresas de salud, seguros, retail y energía.
+- 💼 Trabajo en **Grupcos**.
 - 🧩 Desarrollo el portal web de un sistema de inventario y ventas en **React + TypeScript**, con pruebas en Vitest y Playwright.
 - 🎓 Estudio 8.º semestre de **Ingeniería de Software** en la Universidad Uninpahu.
 - 🌱 Ahora estoy aprendiendo más de **backend, Docker e integración de IA**.
@@ -70,7 +70,6 @@
 | 🍃 [**hunters-svc-nosql**](https://github.com/nicolascamargom/hunters-svc-nosql) | La misma API, con base NoSQL, para comparar los dos modelos | Node.js · Express · MongoDB · Swagger |
 | 🛸 [**rick-front**](https://github.com/nicolascamargom/rick-front) + [**rick-api**](https://github.com/nicolascamargom/rick-api) | App que busca personajes de Rick and Morty en una API propia | Expo · Express · MySQL |
 
-> 🔒 La mayor parte de mi código de trabajo está en repositorios privados de la empresa, por eso no aparece aquí.
 
 ### 📊 Estadísticas
 
