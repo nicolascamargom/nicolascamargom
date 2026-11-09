@@ -23,8 +23,8 @@
 ```js
 const nicolas = {
   rol:         "Desarrollador de Software Junior",
-  empresa:     "Grupcos",
-  estudios:    "Ingeniería de Software · Uninpahu (8.º semestre)",
+  practicas:   "Grupcos",
+  estudios:    "Ingeniería de Software · Uninpahu (9.º semestre)",
   enfoque:     ["APIs REST", "Frontend con React", "Apps móviles"],
   aprendiendo: ["Docker", "Integración de IA", "Pruebas automatizadas"],
   ubicacion:   "Bogotá, Colombia",
