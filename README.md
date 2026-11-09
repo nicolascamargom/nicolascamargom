@@ -25,7 +25,7 @@
 const nicolas = {
   rol:         "Desarrollador de Software Junior",
   practicas:   "Grupcos",
-  estudios:    "Ingeniería de Software · Uninpahu (9.º semestre)",
+  estudios:    "Ingeniería de Software · 9.º semestre",
   enfoque:     ["APIs REST", "Frontend con React", "Apps móviles"],
   aprendiendo: ["Docker", "Integración de IA", "Pruebas automatizadas"],
   ubicacion:   "Bogotá, Colombia",
