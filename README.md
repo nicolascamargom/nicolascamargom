@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Nicol%C3%A1s%20Camargo&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Desarrollador%20de%20Software%20Junior&descAlignY=62&descSize=20" alt="Nicolás Camargo · Desarrollador de Software Junior">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Nicol%C3%A1s%20Camargo&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Desarrollador%20de%20Software%20Junior&descAlignY=57&descSize=20" alt="Nicolás Camargo · Desarrollador de Software Junior">
 </p>
 
 <!-- Texto que se escribe solo -->
