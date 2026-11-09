@@ -74,6 +74,6 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolascamargom&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascamargom&layout=compact&hide_border=true&locale=es" alt="Lenguajes más usados">
+  <img height="160" src="https://streak-stats.demolab.com/?user=nicolascamargom&hide_border=true&locale=es" alt="Racha de contribuciones">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolascamargom&theme=default" alt="Lenguajes más usados">
 </p>
